@@ -2,6 +2,17 @@
 
 * I have designed an application for small scale restaurant owners who can't afford more budget on billing software. It is accessible to users 24*7. Now a days, many software providing apps charge more amount, that small scale businesses can't afford. This project will help them with cost efficiency and Time management.
 
+# How to Run the Project
+* Clone the repository into your system
+* Go to 4_Implementaion/src/ folder to find the java files
+* import them into your IDE
+* RUN the BillGen file
+
+# Login Page Details
+|Username|Password|
+|:--:|:--:|
+|`hotwheels`| `admin`| 
+
 # Folder Structure
 |Folder|Description|
 |:--:|:--:|
