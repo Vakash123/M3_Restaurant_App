@@ -9,6 +9,7 @@
     * It calculates the tax
     * You can see the generated bill 
     * It is easy to operate and gives accurate results
+    * It requires login and password to access the software
 
 
 # Highlevel Requirements
@@ -17,6 +18,7 @@
 |HLR_01|This project helps to calculate the cost of drinks purchased|Implemented|
 |HLR_02|This project helps to calculate the cost of maincourse|Implemented|
 |HLR_03|This project helps to calculate Tax and gives total with tax included|Implemented|
+|HLR_04|This project is login protected, unless you have credentials you can't access|Implemented|
 
 
 # Lowlevel Requirements
@@ -30,7 +32,7 @@
 
 # SWOT Analysis
 * Strenght : 
-    * Inclusive of taxes and prints the invoices
+    * Inclusive of taxes and prints the invoices and has login page
 * Weakness : 
     * Payment gateways, QR code are not added, but in future I will make this feature enable and make this a strenght
 * Opportunity :
